@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Eduard 👋
 
-<!--
-**Der-Eddy/Der-Eddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my [discord_bot](https://github.com/Der-Eddy/discord_bot)
+- 🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust)
+- 🐧 I'm running Arch Linux on Desktop and Server
+- 📄 My [website](https://www.eddy-dev.net/)
+- 📰 My [blog](https://blog.eddy-dev.net/)
+- 📫 How to reach me:
+  - [PGP Key](https://keyserver.ubuntu.com/pks/lookup?search=0x3190ef1268489061&fingerprint=on&op=index)
+  - [Keybase](https://keybase.io/dereddy)
+  - [Stackoverflow](https://stackoverflow.com/users/3437046/der-eddy)
+  - Matrix: @eddy:kokoro-ko.de
+  - Discord: Eddy#3951
